@@ -1,16 +1,17 @@
 # Hands-On Advanced Python
 This is the repository for the LinkedIn Learning course `Hands-On Advanced Python`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
-
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+	- Python 3.10
+	- A text editor like Visual Studio Code
+2. You can also work online directly using a Github Codespace.
+3. To work locally, clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
+## Instructor
+Joe Marini has been building software professionally for some of the biggest and best known companies in Silicon Valley for more than 30 years.
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-marini).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
