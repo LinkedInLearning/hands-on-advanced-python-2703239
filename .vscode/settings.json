@@ -1,0 +1,4 @@
+{
+    "python.linting.enabled": false,
+    "python.terminal.executeInFileDir": true
+}
